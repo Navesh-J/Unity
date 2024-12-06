@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Flarpy Potato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|D:\\Projects\\Flarpy Potato\\assets\\potatoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|solutionrelative:assets\\potatoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|d:\\projects\\flarpy potato\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|D:\\Projects\\Flarpy Potato\\assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|d:\\projects\\flarpy potato\\assets\\middlepipescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|solutionrelative:assets\\middlepipescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|D:\\Projects\\Flarpy Potato\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73A74B-C131-AED3-EC83-BDB4BAC9542E}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Flarpy Potato\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "D:\\Projects\\Flarpy Potato\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:40:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiddlePipeScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Flarpy Potato\\Assets\\MiddlePipeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MiddlePipeScript.cs",
+              "ToolTip": "D:\\Projects\\Flarpy Potato\\Assets\\MiddlePipeScript.cs",
+              "RelativeToolTip": "Assets\\MiddlePipeScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:05:31.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Flarpy Potato\\Assets\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMoveScript.cs",
+              "ToolTip": "D:\\Projects\\Flarpy Potato\\Assets\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\PipeMoveScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:34:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Flarpy Potato\\Assets\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnScript.cs",
+              "ToolTip": "D:\\Projects\\Flarpy Potato\\Assets\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:41:19.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PotatoScript.cs",
+              "DocumentMoniker": "D:\\Projects\\Flarpy Potato\\Assets\\PotatoScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PotatoScript.cs",
+              "ToolTip": "D:\\Projects\\Flarpy Potato\\Assets\\PotatoScript.cs",
+              "RelativeToolTip": "Assets\\PotatoScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:45:44.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
